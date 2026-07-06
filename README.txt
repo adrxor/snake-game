@@ -1,14 +1,10 @@
 # Snake Game
 
-A simple Snake game written in Python.
+A simple Snake game written in C#.
 
 ## Features
 - Classic Snake gameplay
 - Score system
 - Game Over screen
 
-## Installation
-
-```bash
-pip install -r requirements.txt
-python main.py
+This repository contains only the compiled Windows executable of the Snake game.
